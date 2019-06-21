@@ -24,7 +24,7 @@
   "devDependencies": {
     "@babel/core": "^7.4.5",
     "babel-preset-react": "^6.24.1",
-    "parcel-bundler": "^1.12.3",
+    "parcel-bundler": "^1.12.3"
   },
   "peerDependencies": {
     "moment": ">= 2.24.x",
